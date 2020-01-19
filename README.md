@@ -42,4 +42,4 @@ In geocoding part we used 4 libraries: logging, time, pandas, requests and our G
 **Distance_matrix.py**
 In distance matrix part we used prepared MST and tried to understand if real roads are shorter. So, using pandas, googlemaps and csv we got the final table (Final.csv) where you can see all cities, graph value and km between given cities.
 # Result: 
-the obtained MST is visualised on a map via Folium library. Also a comparison table is constructed in a form of a .csv file
+The obtained MST is visualised on a map via Folium library. Also a comparison table is constructed in a form of a .csv file
